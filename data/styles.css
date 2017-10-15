@@ -79,10 +79,15 @@
   color:#000000;
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
 ._流程形状 {
 }
 .html_button {
   text-align:center;
+}
+.table_cell {
 }
 ._图片1 {
 }
