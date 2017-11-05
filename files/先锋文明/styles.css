@@ -1132,3 +1132,28 @@
   width:51px;
   white-space:nowrap;
 }
+#u3431_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:362px;
+  height:79px;
+}
+#u3431 {
+  border-width:0px;
+  position:absolute;
+  left:22px;
+  top:147px;
+  width:362px;
+  height:79px;
+}
+#u3432 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:32px;
+  width:358px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
