@@ -527,7 +527,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -538,7 +538,7 @@
   top:116px;
   width:35px;
   height:18px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -925,7 +925,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -936,7 +936,7 @@
   top:204px;
   width:52px;
   height:18px;
-  font-family:'宋体 Bold', '宋体';
+  font-family:'宋体 Bold', '宋体 常规', '宋体';
   font-weight:700;
   font-style:normal;
   font-size:16px;
